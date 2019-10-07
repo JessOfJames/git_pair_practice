@@ -1,2 +1,2 @@
-class GitFire
+class GitFireFighters
 end
